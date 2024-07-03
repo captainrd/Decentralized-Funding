@@ -1,15 +1,15 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "C:\\Users\\shiva\\Desktop\\crowdfunding\\contracts\\Campaign.sol": {
-      "lastModificationDate": 1663503202186,
+    "D:\\Crowdfunding\\web3-fundraiser-youtube\\contracts\\Campaign.sol": {
+      "lastModificationDate": 1712333303914,
       "contentHash": "a26a33820a548406f476441a9d80ba9e",
       "sourceName": "contracts/Campaign.sol",
       "solcConfig": {
-        "version": "0.8.10",
+        "version": "0.8.9",
         "settings": {
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
